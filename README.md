@@ -1,4 +1,4 @@
-games_prototypes
+Prototype de jeu sur pc
 ================
 
-various tests and projects for pc gaming
+Développement d'un jeu sur pc
