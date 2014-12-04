@@ -1,4 +1,4 @@
-Prototype de jeu sur pc
+README Prototype de jeu sur pc
 ================
 
 Développement d'un jeu sur pc.
